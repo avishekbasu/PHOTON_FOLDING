@@ -7,7 +7,7 @@ Code for folding the events recorded by the CZTI and the LAXPC backend of AstroS
 It requires the barycentric corrected eventfiles for folding the data and the parameter file used by the pulsar timing package TEMPO2.
 In future, this code will come with support for folding the data from Fermi-LAT observatory, which will be useful for folding the gamma-ray photons from the pulsars.
 If you are using this code please cite 
-@ARTICLE{2018A&A...617A..22B,
+@software{2018A&A...617A..22B,
        author = {{Basu}, A. and {Joshi}, B.~C. and {Bhattacharya}, D. and {Rao}, A.~R. and {Naidu}, A. and {Krishnakumar}, M.~A. and {Arumugsamy}, P. and {Vadawale}, S. and {Manoharan}, P.~K. and {Dewangan}, G.~C. and {Vibhute}, A. and {Mithun}, N.~P.~S. and {Sharma}, V.},
         title = "{Timing offset calibration of CZTI instrument aboard ASTROSAT}",
       journal = {\aap},
