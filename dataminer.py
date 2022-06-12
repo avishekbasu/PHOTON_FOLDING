@@ -1,8 +1,6 @@
 import sys
 from astropy.io import fits
 import numpy as np
-Eventfile = '/home/avishek/CODES/x_ray_folding_prog/develop.version/photonfolding/example_data/B0534+21.57478.2508102.bary'
-EVT = '/home/avishek/CODES/x_ray_folding_prog/develop.version/photonfolding/example_data/OBSID312laxpc1.bary.fits'
 
 INST_DICT = {"NAME":['CZTI', 'LAXPC1', 'LAXPC2', 'LAXPC3'], "TABLES": [4, 1, 1, 1]}
 
